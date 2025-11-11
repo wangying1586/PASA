@@ -1,0 +1,13 @@
+{
+    "dataset": "SPRSound",
+    "task_type": "12",
+    "data_dir": "./datasets",
+    "exp_dir": "/home/p2412918/Lung_sound_detection_C1/experiments/SPRSound_task12_EfficientNet-B4_log-mel_CorrectedTwoPhaseSAC_P20_T0.01_20250630_040729",
+    "batch_size": 32,
+    "seed": 42,
+    "num_workers": 2,
+    "pin_memory": true,
+    "prefetch_factor": 2,
+    "timestamp": "20250702_030405",
+    "vis_dir": "test_results/SPRSound/task_12/20250702_030405"
+}
