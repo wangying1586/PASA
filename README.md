@@ -189,7 +189,7 @@ For CirCor DigiScope heart murmur detection:
 - **UAR**: Unweighted Average Recall across three classes
 - **Class-specific Recalls**: Present, Absent, Unknown
 
-[THE VISUALIZATION OF SPRSound 2022 and SPRSound 2023 test dataset are in the test_results.]
+[THE VISUALIZATION OF SPRSound 2022 and SPRSound 2023 test datasets for task 1-1 and task 1-2 are in the task_11/20250702_030839 and task_12/20250702_030405.]
 ---
 
 ### Adding Custom Augmentation Operations
