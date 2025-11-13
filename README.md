@@ -1,4 +1,4 @@
-# PASA: Progressive Adaptive Sample-level Augmentation for Respiratory Sound Classification (AAAI 2026)
+# PASA: Progressive-Adaptive Spectral Augmentation for Automated Auscultation in Data-Scarce Environments (AAAI 2026)
 
 ### PASA Paradigm
 ![Methodology Overview](2.Methodology.png)
